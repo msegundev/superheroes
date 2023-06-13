@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">splash_login_recyclerview</string>
+    <string name="nombreAlumno">Manuel Alberto Segun Lopez</string>
+    <string name="curso">2DAM</string>
+</resources>
